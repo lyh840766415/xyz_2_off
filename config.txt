@@ -1,0 +1,8 @@
+powerline = D:\laser\zhoushan_final\zhoushan_powerline.xyz
+ground = D:\laser\zhoushan_final\zhoushan_ground.xyz
+elevation = 0
+bias = -2
+loop = 20
+powerline_no_color = 0
+output = D:\laser\zhoushan_final\zhoushan.off
+#ground keep color, if ground need color, powerline dir and ground dir need switch
